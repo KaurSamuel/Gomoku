@@ -1,0 +1,14 @@
+.Tile {
+    background-color: #1a325e;
+    border: 2px solid #282c34; /* Green */
+    color: white;
+    padding: 0px;
+    text-align: center;
+    min-width: 40px;
+    min-height: 40px;
+    max-height: 40px;
+    max-width: 40px;
+    white-space: pre;
+    font-size: 14px;
+    border-radius: 10px;
+}
